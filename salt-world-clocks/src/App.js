@@ -21,7 +21,7 @@ function App() {
       {title: 'New York', zone: 'America/New_York'},
       {title: 'Los Angeles', zone: 'America/Los_Angeles'},
       {title: 'Sao Paulo', zone: 'America/Sao_Paulo'},
-      // {title: 'Damascus', zone: 'Asia/Damascus'},
+      {title: 'Damascus', zone: 'Asia/Damascus'},
   ]
 
   return (
